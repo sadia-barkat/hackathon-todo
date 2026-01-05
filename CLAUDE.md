@@ -1,5 +1,8 @@
-# Project Guidelines
-- Build: `uv build`
-- Run: `uv run src/main.py`
-- SpecKit: `speckit sync`
-- Style: PEP8 with Type Hints
+Task Properties
+
+Unique auto-incrementing ID
+Title and description
+Priority levels (Low/Medium/High with color indicators)
+Custom categories
+Creation and completion timestamps
+Completion status tracking

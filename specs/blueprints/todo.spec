@@ -1,5 +1,3 @@
-# Todo App Logic
-Feature: Task Management
-  - User can add tasks with title and description.
-  - User can view all tasks.
-  - User can update or delete tasks.
+Feature: Intermediate Task Management
+- Fields: Title, Priority (High/Medium/Low), Category (Work/Home), Status.
+- Logic: Search by keyword, Filter by priority, Sort alphabetically.
